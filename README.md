@@ -1,3 +1,4 @@
-- 👀 I’m interested in developing the skills to work in the web industry!
-- 🌱 I’m currently working on JavaScript projects to solidify my understanding of it.
-- 📫 You can reach me trough my email, alexandrubrancu@yahoo.com .
+- I’m interested in developing the skills to work in the web industry!
+- I’m currently working on JavaScript projects to solidify my understanding of it.
+- You can reach me trough my email, alexandrubrancu@yahoo.com .
+- Here's my personal website: https://brancu-alexandru.web.app
