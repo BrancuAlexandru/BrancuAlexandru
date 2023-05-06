@@ -1,3 +1,3 @@
-- I’m interested in developing awesome projects.
+- I’m interested in developing awesome projects. Available for full time hire.
 - You can reach me trough my email, personal@alexandrubrancu.com .
 - Here's my personal website: https://alexandrubrancu.com
